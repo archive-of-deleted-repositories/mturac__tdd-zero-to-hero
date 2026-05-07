@@ -2,6 +2,8 @@
 
 > 7 bölümlük bir TDD serisi. Türkçe + İngilizce. [dev.to'da oku →](#)
 
+> 🇬🇧 [English version →](en/)
+
 ---
 
 ## Seri Yapısı
@@ -22,7 +24,7 @@
 
 ```bash
 # Repo'yu klonla
-git clone https://github.com/YOUR_USERNAME/tdd-zero-to-hero.git
+git clone https://github.com/mturac/tdd-zero-to-hero.git
 cd tdd-zero-to-hero
 
 # Sanal ortam oluştur
